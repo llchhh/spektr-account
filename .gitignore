@@ -1,0 +1,17 @@
+# Binaries and build files
+*.exe
+*.out
+*.test
+/build/
+bin/
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Editor configurations
+.idea/
+.vscode/
+
+# Environment files
+.env
